@@ -1,6 +1,6 @@
 ### 你好，我是 Thinking rookie（Throokie）
 
-重庆理工大学（CQUT）· 本地优先的开发者工具与 AI 编码 agent 基础设施。
+本地优先的开发者工具与 AI 编码 agent 基础设施。
 
 > 把「能跑的小工具」打磨成「说得清边界、验得过、别人装得上」的产品。
 
@@ -22,4 +22,5 @@
 
 #### 联系
 
-GitHub：[Throokie](https://github.com/Throokie) · Company：CQUT
+- GitHub：[Throokie](https://github.com/Throokie)
+- Email：qq@throokie.eu.org
